@@ -1,0 +1,2 @@
+# Logistic_Regresion_pythagorean
+Logistic_regression_Pythagorean_win_percentage
